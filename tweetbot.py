@@ -1,3 +1,4 @@
+pip install TwitterFollowBot
 from TwitterFollowBot import TwitterBot
 
 my_bot = TwitterBot()
